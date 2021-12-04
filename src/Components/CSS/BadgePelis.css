@@ -1,0 +1,33 @@
+
+.general
+{
+    width: 70%;
+    height: 95%;
+    margin: 10px;
+}
+
+.tamañoFoto
+{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.tamañoFoto img
+{
+    width: 120px;
+    height: 130px;
+}
+
+.centrarlawea
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+.arreglarBoton 
+{
+    width: 200px;
+    
+}

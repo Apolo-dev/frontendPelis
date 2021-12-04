@@ -1,0 +1,22 @@
+
+.gridLista
+{
+    display: grid;
+    grid-template-rows: 50px 600px;
+    
+}
+
+
+
+.badglista
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 200px 200px 200px 200px ;
+    margin: 10px;
+}
+
+.separarindividuos
+{
+    margin: 5px;
+}

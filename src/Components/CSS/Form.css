@@ -1,0 +1,39 @@
+
+.gener
+{
+    width: 90%;
+    height: 350px;
+}
+
+
+.form-group
+{
+    margin: 15px;
+    
+}
+
+.ff
+{
+    background-color: rgb(7, 7, 54);
+}
+
+
+.ff h3
+{
+    text-align: center;
+    color: white;
+}   
+
+.moverbot
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.botoncitopapi
+{
+    width: 300px;
+    margin-top: 15px;
+    
+}

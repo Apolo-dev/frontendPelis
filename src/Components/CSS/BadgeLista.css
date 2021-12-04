@@ -1,0 +1,24 @@
+
+.gridtarjeta
+{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    border: 1px solid black;
+}
+
+.tamañoFoto img
+{
+    width: 100px;
+    height: 100px;
+}
+
+.listaRespuesta
+{
+    height: 100%;
+}
+
+.listaRespuesta ul li 
+{
+    list-style: none;
+    margin-top: 10px;
+}

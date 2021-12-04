@@ -1,0 +1,20 @@
+
+.gridPeliculitas
+{
+    display: grid;
+    grid-template-rows: 50px 50px 600px;
+}
+
+.tituloBonito
+{
+    margin: 10px;
+    text-align: center;
+}
+
+.gridCuerpoPelis
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 315px 315px;
+    margin-left: 60px;
+}

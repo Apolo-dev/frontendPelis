@@ -1,0 +1,23 @@
+
+.gridPeliculas
+{
+    display: grid;
+    grid-template-rows: 60px 600px;
+}
+
+.ordenarLista
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ordenarLista li
+{
+    list-style: none;
+}
+
+.ordenarLista li a
+{
+    text-decoration: none;
+    margin-right: 20px;
+}
