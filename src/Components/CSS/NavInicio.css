@@ -1,0 +1,24 @@
+
+.gridNavInicio
+{
+    display: grid;
+    grid-template-columns: 80% 10% 10%;
+    align-items: center;
+    background-color: black;
+}
+
+.listaaaa
+{
+    list-style: none;
+    text-align: center;
+    
+    
+}
+
+.listaaaa a
+{
+    text-decoration: none;
+    color: white;
+    
+    
+}
