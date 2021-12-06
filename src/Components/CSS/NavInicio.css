@@ -5,6 +5,7 @@
     grid-template-columns: 80% 10% 10%;
     align-items: center;
     background-color: black;
+    min-width: 90%;
 }
 
 .listaaaa
@@ -19,6 +20,10 @@
 {
     text-decoration: none;
     color: white;
-    
-    
+    padding: 15px 30px;
+}
+
+.listaaaa a:hover
+{
+    background-color: rgb(80, 80, 129);
 }

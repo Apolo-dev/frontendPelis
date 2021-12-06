@@ -2,7 +2,7 @@
 .gridPeliculas
 {
     display: grid;
-    grid-template-rows: 60px 600px;
+    grid-template-rows: 50px 600px;
 }
 
 .ordenarLista
